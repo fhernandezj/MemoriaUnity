@@ -8,14 +8,16 @@ public class MainScript : NetworkBehaviour {
 
 	[SyncVar]
 	public string carta1, carta2;
-	private string sprite1, sprite2;
+	public string sprite1, sprite2;
 	[SyncVar]
 	public bool canOpen;
 	[SyncVar]
 	public int puntosHost, puntosClient;
 	[SyncVar]
 	public int jugador;
-	public UnityEngine.UI.Text turno, ph, pc;
+	public UnityEngine.UI.Text turno, ph, pc, tiempo;
+	[SyncVar]
+	public float time_init = 0f;
 
 	// Use this for initialization
 	void Start () {
@@ -50,6 +52,17 @@ public class MainScript : NetworkBehaviour {
 		}
 		ph.text = "Puntaje Host: " + puntosHost;
 		pc.text = "Puntaje Client: " + puntosClient;
+
+		if(puntosHost + puntosClient != 8){
+			time_init += Time.deltaTime;
+			int seg = (int)(time_init%60);
+			tiempo.text = "Tiempo: " + seg + " s";
+
+			if(seg>15){
+				resetParams ();
+			}
+		}
+
 	}
 
 	public void openCard(string carta, string sprite){
@@ -83,6 +96,7 @@ public class MainScript : NetworkBehaviour {
 		carta2 = "";
 		sprite1 = "";
 		sprite2 = "";
+		time_init = 0f;
 		if (jugador == 0) {
 			jugador = 1;
 		} else {

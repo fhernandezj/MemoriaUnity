@@ -7,34 +7,42 @@ Direct3D:
     VRAM:     1130 MB
     Driver:   20.19.15.4531
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Francisco Hernandez\Documents\Unity Projects\PruebaCarta\Exec\exec_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Francisco Hernandez\Documents\Unity Projects\PruebaCarta\Exec\exec_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Francisco Hernandez\Documents\Unity Projects\PruebaCarta\Exec\exec_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Francisco Hernandez\Documents\Unity Projects\PruebaCarta\Exec\exec_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Francisco Hernandez\Documents\Unity Projects\PruebaCarta\Exec\exec_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Francisco Hernandez\Documents\Unity Projects\PruebaCarta\Exec\exec_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Francisco Hernandez\Documents\Unity Projects\PruebaCarta\Exec\exec_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Francisco Hernandez\Documents\Unity Projects\PruebaCarta\Exec\exec_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\Francisco Hernandez\Documents\Unity Projects\PruebaCarta\Exec\exec_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
-Loading C:\Users\Francisco Hernandez\Documents\Unity Projects\PruebaCarta\Exec\exec_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
-Platform assembly: C:\Users\Francisco Hernandez\Documents\Unity Projects\PruebaCarta\Exec\exec_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading C:\Users\Francisco Hernandez\Documents\Unity Projects\PruebaCarta\Exec\exec_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-Platform assembly: C:\Users\Francisco Hernandez\Documents\Unity Projects\PruebaCarta\Exec\exec_Data\Managed\System.dll (this message is harmless)
-Platform assembly: C:\Users\Francisco Hernandez\Documents\Unity Projects\PruebaCarta\Exec\exec_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.026 seconds
+Platform assembly: C:\Users\Francisco Hernandez\Documents\Unity Projects\Memoria\MemoriaUnity\Exec\exec_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Francisco Hernandez\Documents\Unity Projects\Memoria\MemoriaUnity\Exec\exec_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Francisco Hernandez\Documents\Unity Projects\Memoria\MemoriaUnity\Exec\exec_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Francisco Hernandez\Documents\Unity Projects\Memoria\MemoriaUnity\Exec\exec_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Francisco Hernandez\Documents\Unity Projects\Memoria\MemoriaUnity\Exec\exec_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Francisco Hernandez\Documents\Unity Projects\Memoria\MemoriaUnity\Exec\exec_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Francisco Hernandez\Documents\Unity Projects\Memoria\MemoriaUnity\Exec\exec_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Francisco Hernandez\Documents\Unity Projects\Memoria\MemoriaUnity\Exec\exec_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Francisco Hernandez\Documents\Unity Projects\Memoria\MemoriaUnity\Exec\exec_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Francisco Hernandez\Documents\Unity Projects\Memoria\MemoriaUnity\Exec\exec_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Francisco Hernandez\Documents\Unity Projects\Memoria\MemoriaUnity\Exec\exec_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Francisco Hernandez\Documents\Unity Projects\Memoria\MemoriaUnity\Exec\exec_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Francisco Hernandez\Documents\Unity Projects\Memoria\MemoriaUnity\Exec\exec_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Francisco Hernandez\Documents\Unity Projects\Memoria\MemoriaUnity\Exec\exec_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.434 seconds
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 7.128138 ms
+UnloadTime: 30.514439 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1764 -> priority: 1 
-  Thread -> id: 17b0 -> priority: 1 
+  Thread -> id: 2678 -> priority: 1 
+  Thread -> id: 31ac -> priority: 1 
+The PlayerPrefab is empty on the NetworkManager. Please setup a PlayerPrefab object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The PlayerPrefab is empty on the NetworkManager. Please setup a PlayerPrefab object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
 True
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-False
+True
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -42,7 +50,183 @@ True
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-False
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+True
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
